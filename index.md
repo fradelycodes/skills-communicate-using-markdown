@@ -10,3 +10,9 @@
 ```
 cd Documents/ in https://github.com/fradelycodes/skills-communicate-using-markdown
 ```
+
+### Lists
+
+- [x] Some oranges
+- [x] some grapes
+- [ ] some test
